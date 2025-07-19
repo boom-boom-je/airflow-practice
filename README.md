@@ -9,7 +9,7 @@
 
 | 디렉토리 | 내용 |
 |----------|------|
-| `1_Airflow 환경 생성` | Docker 기반의 Airflow 환경 구성 및 Web UI 접속 확인 |
+| `1_Airflow 환경 생성` | GCP 기반의 Airflow 환경 구성 및 Web UI 접속 확인 |
 | `2_Python_Operator` | PythonOperator를 활용한 DAG 작성 및 task 실행 실습 |
 | `3_Bash_Operator` | BashOperator를 활용하여 bash 명령어 실행 실습 |
 | `4_Bash_Python_Mixed_Operator` | BashOperator와 PythonOperator를 함께 사용하는 DAG 구성 실습 |
