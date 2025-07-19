@@ -25,7 +25,7 @@
 > ## 🛠️ 사용 환경
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=GCP&logoColor=white">
+- <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 - <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white">
 - 일부 실습에서는 **Google Cloud Storage (GCS)** 연동 필요
 
