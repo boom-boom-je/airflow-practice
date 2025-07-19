@@ -28,6 +28,6 @@
 - <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 - <img src="https://img.shields.io/badge/googlecloudcomposer-4285F4?style=for-the-badge&logo=googlecloudcomposer&logoColor=white">
 - <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white">
-- 일부 실습에서는 <img src="https://img.shields.io/badge/googlecloudstorage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white"> 연동 필요
+- <img src="https://img.shields.io/badge/googlecloudstorage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white">
 
 ---
